@@ -1,0 +1,9 @@
+{
+  "name": "package-exports-edge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^2.15.0"
+  }
+}

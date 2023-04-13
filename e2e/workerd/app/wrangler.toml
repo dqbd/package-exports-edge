@@ -1,0 +1,4 @@
+name = "workerd"
+workers_dev = true
+main = "index.ts"
+compatibility_date = "2023-03-07"

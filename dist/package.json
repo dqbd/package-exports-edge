@@ -1,0 +1,19 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "main": "index.node.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "types": "./index.d.ts",
+      "bun": "./index.bun.js",
+      "edge-light": "./index.edge-light.js",
+      "netlify": "./index.netlify.js",
+      "workerd": "./index.workerd.js",
+      "node": "./index.node.js",
+      "default": "./index.js"
+    }
+  }
+}

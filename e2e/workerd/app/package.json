@@ -1,0 +1,12 @@
+{
+  "name": "workerd",
+  "dependencies": {
+    "pkg": "../../../dist"
+  },
+  "scripts": {
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^2.15.0"
+  }
+}
