@@ -4,7 +4,7 @@
     "pkg": "../../../dist"
   },
   "scripts": {
-    "start": "vercel dev"
+    "start": "vercel dev --listen 0.0.0.0:3001"
   },
   "devDependencies": {
     "@vercel/node": "^2.10.3",

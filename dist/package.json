@@ -9,9 +9,9 @@
     ".": {
       "types": "./index.d.ts",
       "bun": "./index.bun.js",
-      "edge-light": "./index.edge-light.js",
       "netlify": "./index.netlify.js",
       "workerd": "./index.workerd.js",
+      "edge-light": "./index.edge-light.js",
       "node": "./index.node.js",
       "default": "./index.js"
     }
